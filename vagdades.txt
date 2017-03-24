@@ -1,0 +1,25 @@
+Hola Vagdedes,  he hecho un video con algunas cosas que podrias corregir! 
+
+Tambien quisiera saber si hay la posibilidad de que, jugadores con ping 0, no reciban VL, o tambien que al teletransportarse tengan un conteo para que el lag del tp no genere un falso positivo de speed o fly!
+
+Otra cosa, puedes colocar que no devuelva o teletransporte a los jugadores de vuelta como una opcion? Asi como que puedan volar, pero los va a banear pasados unos segundos.
+
+El NoFall funciona sin falsos positivos por un ping alto, lo que es excelente, solo que tiene que ser de una distancia muy alta para que detecte una o dos VL, lo cual podria pasar desapercibido si un staff no esta en modo verbose. Ademas nunca se saca el daño como compensacion, y te ayuda a bajar mas rapido ya que, al detectar, teletransporta al jugador abajo y tampoco obtiene daño.
+
+Una ultima cosa, me han reportado y he visto (pero no me ha pasado a mi, por lo que no he podido grabarlo para mostrarte, pero es muy parecido a lo que pasa en el video, en la parte de KillAura, yo no estaba usando ningun hack de velocidad, pero me devolvio varias veces por speed), que el speed bugea a los jugadores al suelo en pvp, si se mueven aumentan los VL de speed hasta que los kickea, lo cual genera molestias en el pvp y posibles sanciones sin razon.
+
+Es todo, gracias por tu tiempo y por tener un excelente soporte.
+
+
+
+Vagdedes Hi, I made a video with some things you could correct!
+
+I would also like to know if there is a possibility that players with ping 0 not receive VL, or also that teleporting have a count for the lag tp does not generate a false positive speed or fly!
+
+Another thing, you can not put back or teleport players back as an option? Just as they can fly, but the ban will last a few seconds.
+
+The NoFall works without false positives by a high ping, which is excellent, only has to be of a very high distance to detect one or two VL, which could go unnoticed if a staff is not in verbose mode. Besides never damage as compensation is removed, and helps you lose faster because, detect, teleports the player down and not get hurt.
+
+One last thing, have reported me and I've seen (but has not happened to me, so I could not save it for show, but it's very similar to what happens in the video, on the part of KillAura, I was not using any hack speed, but gave me back several times speed), the bugea players down in pvp speed, if they move increase VL speed until Kicks, which creates discomfort pvp and possible sanctions without reason.
+
+That's all, thanks for your time and have excellent support.
