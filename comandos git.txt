@@ -1,0 +1,48 @@
+$ git help [comando]
+
+Nos muestra la ayuda.
+Con q se sale de la vista de la ayuda.
+
+$ git init
+
+Marca el inicio de nuestro proyecto, se empiizan a monitoriar/registrar todos los cambios.
+Se usa estando en la localizacion de la carpeta.
+
+
+$ git status
+
+Nos dice el estado de nuestro proyecto (los archivos que tenemos o no agregados, las modificaciones realizadas que no han sido commit, etc)
+
+
+$ git add
+
+Agregamos los archivos que ya estan listos para el siguiente paso.
+$ git -A agrega todos los archivos que tenemos.
+
+
+$ git commit -m "Mensaje"
+
+Se guardan los cambios realizados, y opcionalmente se le agrega un mensaje a ese cambio para identificarlo.
+El commit es como el punto de guardado en las partidas de play :v
+Es importante que el mensaje este relacionado con el cambio realizado, y que por muy pequeño que sea, siempre lo identifiquemos.
+
+
+$ git log
+
+Nos da una lista de todos los commits con su respectiva informacion.
+Con $ git log > nombre.txt nos genera un archivo con todos los commits
+Con $ git log --oneline nos muestra todos los ultimos commits en una sola linea, util para leer los ultimos cambios
+
+
+$ git checkout (Codigo sha)
+
+Permite "viajar en el tiempo" a travez de nuestros commits o ramas.
+Se coloca el codigo sha que nos muestra en el git log y podemos viajar en el tiempo hacia ese ultimo cambio.
+Con $ checkout master nos movemos al ultimo commit que hemos realizado.
+
+$ git reset (--soft, --mixed, --hard)
+
+Borra todos lo de un commit.
+--soft borra el historial de cambio de ese commit, pero no borra ningun cambio realizado en ese commit.
+--hard borra todo, el commit y el codigo.
+
