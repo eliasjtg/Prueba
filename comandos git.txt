@@ -46,3 +46,4 @@ Borra todos lo de un commit.
 --soft borra el historial de cambio de ese commit, pero no borra ningun cambio realizado en ese commit.
 --hard borra todo, el commit y el codigo.
 
+asd
